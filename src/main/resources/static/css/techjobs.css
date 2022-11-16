@@ -7,7 +7,7 @@ td, th {
 }
 
 th {
-    text-align: center;
+    text-align: left;
 }
 
 td {
@@ -17,6 +17,7 @@ td {
 tr:nth-child(odd) {
     background-color: #e4e4e4;
 }
+
 
 .centeredTable {
     margin-left: auto;
